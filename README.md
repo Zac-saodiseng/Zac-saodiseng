@@ -47,17 +47,6 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
----
-
-## 🇺🇸 GitHub 活动图（美国主题）
-
 <p align="center">
-  <img src="https://github.com/Zac-saodiseng/Zac-saodiseng/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-<!-- 底部波浪 -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=100&section=footer" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zac-saodiseng&theme=github-compact&area=true&area_color=ffcccc&line=ff0000&point=0000ff&color=000000&bg_color=ffffff&hide_border=true" />
 </p>
