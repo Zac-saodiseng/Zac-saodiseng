@@ -1,24 +1,31 @@
-name: Generate Snake
+name: Generate Snake Animation 🇺🇸
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # 每天生成
-  workflow_dispatch:
+    - cron: "0 0 * * *"  # 每天 0 点自动更新
+  workflow_dispatch:  # 允许手动触发
 
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: Platane/snk@v3
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Generate Snake Animation
+        uses: Platane/snk@v3
         with:
           github_user_name: Zac-saodiseng
           outputs: |
-            dist/github-contribution-grid-snake.svg
+            ./github-contribution-grid-snake.svg
+            ./github-contribution-grid-snake.gif
+          # 使用你自己的背景图（我们在下一步生成）
 
-      - name: Push to GitHub
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
-          build_dir: dist
+          build_dir: .
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
