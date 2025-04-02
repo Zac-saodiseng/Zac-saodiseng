@@ -20,7 +20,6 @@
 
 <p align="center">
   📧 Email: <a href="mailto:z3253345336@gmail.com">z3253345336@gmail.com</a> <br>
-  🌐 Blog: <a href="https://Zac-saodiseng.github.io">Zach's Blog</a> <br>
 </p>
 
 ---
@@ -39,6 +38,9 @@
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/ClickHouse-FFCC00?style=for-the-badge&logo=clickhouse&logoColor=black" />
   <img src="https://img.shields.io/badge/StarRocks-00B2EE?style=for-the-badge&logo=data&logoColor=white" />
   <img src="https://img.shields.io/badge/Doris-2C6BED?style=for-the-badge&logo=apache&logoColor=white" />
@@ -47,6 +49,8 @@
   <img src="https://img.shields.io/badge/Flink-EA2D2E?style=for-the-badge&logo=apacheflink&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=data&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
