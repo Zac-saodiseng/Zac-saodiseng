@@ -1,6 +1,5 @@
 <!-- Zac-saodiseng 的 GitHub 主页 README.md -->
 
-<!-- 彩色渐变文字标题（静态一行） -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=500&color=00C6FF&center=true&vCenter=true&width=600&lines=Hey!+I'm+Zach+👋" />
 </p>
