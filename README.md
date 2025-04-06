@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=500&color=00C6FF&center=true&vCenter=true&width=600&lines=Hey!+I'm+Zach+👋" />
 </p>
 
-<!-- Zac h GitHub 主页简介（美化 + 居中 + 视觉突出） -->
+<!-- Zach GitHub 主页简介（美化 + 居中 + 视觉突出） -->
 
 <h2 align="center">🇺🇸 26Fall Incoming CS Master's Student in the United States</h2>
 
