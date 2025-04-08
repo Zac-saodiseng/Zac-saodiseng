@@ -17,8 +17,11 @@
 
 <h3 align="center">📫 Contact Me</h3>
 
+<h3 align="center">📫 Contact Me</h3>
+
 <p align="center">
   📧 Email: <a href="mailto:z3253345336@gmail.com">z3253345336@gmail.com</a> <br>
+  🔗 LinkedIn: <a href="https://www.linkedin.com/in/zach-zuo-242662356" target="_blank">Zach Zuo's LinkedIn</a>
 </p>
 
 ---
