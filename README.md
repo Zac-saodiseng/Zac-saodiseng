@@ -27,7 +27,7 @@
 <p align="center">
   🔧 Distributed Computing Engines: <strong>StarRocks</strong> · <strong>ClickHouse</strong> · <strong>Apache Doris</strong> · <strong>Snowflake</strong> <br>
   🧱 Big Data Systems & Data Infrastructure <br>
-  📊 Data Analytics · Data Engineering · Data-Intensive Systems <br>
+  📊 Data Analytics · Data Engineering · Data-Intensive Computing <br>
   🧠 System Internals · Performance Optimization · Open-Source <br>
 </p>
 
