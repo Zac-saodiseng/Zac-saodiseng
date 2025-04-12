@@ -13,7 +13,7 @@
   🌱 Exploring the internals of <strong>Data Systems</strong> and <strong>Open-Source</strong> <br>
 </p>
 
-<h3 align="center">📫 Contact Me</h3>
+<h3 align="center">📫 Let's Connect</h3>
 
 <p align="center">
   <img src="https://img.icons8.com/ios-glyphs/24/000000/new-post.png" alt="Email" style="vertical-align:middle; margin-right:4px;"/> Email: <a href="mailto:z3253345336@gmail.com">z3253345336@gmail.com</a> <br>
