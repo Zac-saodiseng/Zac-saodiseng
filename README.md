@@ -25,10 +25,10 @@
 <h2 align="center">🧠 Tech & Interests</h2>
 
 <p align="center">
-  🔧 Distributed Computing Engines: <strong>StarRocks</strong> · <strong>ClickHouse</strong> · <strong>Apache Doris</strong> · <strong>Snowflake</strong> <br>
-  🧱 Big Data Systems & Data Infrastructure <br>
-  📊 Data Analytics · Data Engineering · Data-Intensive Computing <br>
-  🧠 System Internals · Performance Optimization · Open-Source <br>
+  🔧 <strong>StarRocks</strong> · <strong>ClickHouse</strong> · <strong>Apache Doris</strong> · <strong>Snowflake</strong> <br>
+  🧱 <strong>Big Data Systems</strong> & <strong>Data Infrastructure</strong> <br>
+  📊 <strong>Data Analytics</strong> · <strong>Data Engineering</strong> · <strong>Data-Intensive Computing</strong> <br>
+  🧠 <strong>System Internals</strong> · <strong>Performance Optimization</strong> · <strong>Open-Source</strong> <br>
 </p>
 
 <p align="center">
