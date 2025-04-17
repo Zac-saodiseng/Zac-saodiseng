@@ -22,7 +22,7 @@
 
 ---
 
-<h2 align="center">🧠 Tech & Interests</h2>
+<h2 align="center">🧠 Tech  & Interests</h2>
 
 <p align="center">
   🔧 <strong>StarRocks</strong> · <strong>ClickHouse</strong> · <strong>Apache Doris</strong> · <strong>Snowflake</strong> <br>
