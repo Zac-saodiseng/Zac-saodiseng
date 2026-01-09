@@ -2,7 +2,7 @@
 
 <h1 align="center">Hey! I'm Zach 👋</h1>
 
-<!-- Zach GitHub 主页简介（美化 + 居中 + 视觉突出） -->
+<!-- Zach GitHub 主页简介（美化 + 居中 + 视觉突出是吧） -->
 
 <h2 align="center">🇺🇸 26Fall Incoming CS Graduate Student in the United States</h2>
 
