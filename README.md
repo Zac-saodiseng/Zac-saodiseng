@@ -2,15 +2,13 @@
 
 <h1 align="center">Hey! I'm Zach 👋</h1>
 
-<!-- Zach GitHub 主页简介（美化 + 居中 + 视觉突出） -->
-
 <h2 align="center">🇺🇸 26Fall Incoming CS Graduate Student in the United States</h2>
 
 <p align="center">
   🎓 CS Undergraduate @ <strong>Northeastern University (China)</strong> <br>
   💼 Internship Experience @ <strong>Meituan</strong> · <strong>Kuaishou</strong> · <strong>StarRocks</strong> <br>
-  🎯 Passionate about <strong>Big Data</strong> · <strong>Distributed Systems</strong> · <strong>Data Analytics</strong> <br>
-  🌱 Exploring the internals of <strong>Data Systems</strong> and <strong>Open-Source</strong> <br>
+  🎯 Research Focus: <strong>Agent Foundation Models</strong> · <strong>Post-Training for Security Tasks</strong> · <strong>Agent Memory Systems</strong> <br>
+  🌱 Exploring: <strong>LLM-Assisted Agentic Security Systems</strong> · <strong>Empirical & Explainable Security Research</strong> <br>
 </p>
 
 <h3 align="center">📫 Let's Connect</h3>
@@ -22,37 +20,80 @@
 
 ---
 
-<h2 align="center">🧠 Tech & Interests</h2>
+<h2 align="center">🔧 Tech Stack & Tools</h2>
 
 <p align="center">
-  🔧 <strong>StarRocks</strong> · <strong>ClickHouse</strong> · <strong>Apache Doris</strong> · <strong>Snowflake</strong> <br>
-  🧱 <strong>Big Data Systems</strong> & <strong>Data Infrastructure</strong> <br>
-  📊 <strong>Data Analytics</strong> · <strong>Data Engineering</strong> · <strong>Data-Intensive Computing</strong> <br>
-  🧠 <strong>System Internals</strong> · <strong>Performance Optimization</strong> · <strong>Open-Source</strong> <br>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/ClickHouse-FFCC00?style=for-the-badge&logo=clickhouse&logoColor=black" />
-  <img src="https://img.shields.io/badge/StarRocks-00B2EE?style=for-the-badge&logo=data&logoColor=white" />
-  <img src="https://img.shields.io/badge/Doris-2C6BED?style=for-the-badge&logo=apache&logoColor=white" />
-  <img src="https://img.shields.io/badge/Snowflake-56B9FF?style=for-the-badge&logo=snowflake&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flink-EA2D2E?style=for-the-badge&logo=apacheflink&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=data&logoColor=white" />
+  <!-- LLM & Agent 工具 -->
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Transformers-02A7F0?style=for-the-badge&logo=python&logoColor=white" />
+  
+  <!-- 后训练 & Memory 组件 -->
+  <img src="https://img.shields.io/badge/LoRA-6A0DAD?style=for-the-badge&logo=machine-learning&logoColor=white" />
+  <img src="https://img.shields.io/badge/RLHF-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/FAISS-4B6B9E?style=for-the-badge&logo=facebook&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chroma-222222?style=for-the-badge&logo=data&logoColor=white" />
+  
+  <!-- 安全工具 -->
+  <img src="https://img.shields.io/badge/angr-3572A5?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ghidra-3572A5?style=for-the-badge&logo=national-security-agency&logoColor=white" />
+  <img src="https://img.shields.io/badge/AFL-FF6600?style=for-the-badge&logo=security&logoColor=white" />
+  
+  <!-- 编程语言 -->
+  <img src="https://img.icons8.com/color/48/000000/python--v1.png" width="40" alt="Python"/>
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="40" alt="C++"/>
+  <img src="https://img.icons8.com/color/48/000000/go.png" width="40" alt="Go"/>
+  
+  <!-- 实验 & 工程工具 -->
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
+
+---
+
+<h2 align="center">📊 GitHub Activity & Stats</h2>
+
+<!-- 修复后的稳定统计卡片（确保加载成功） -->
+<p align="center">
+  <!-- 综合统计卡片（显示提交、星星等） -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Zac-saodiseng&show_icons=true&theme=radical&count_private=true&hide_border=true" 
+       alt="Zach's GitHub Stats" 
+       width="48%" 
+       style="border-radius: 8px;" />
+  
+  <!-- 常用语言分布卡片 -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zac-saodiseng&layout=compact&theme=radical&hide_border=true" 
+       alt="Top Languages" 
+       width="48%" 
+       style="border-radius: 8px;" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zac-saodiseng&theme=github-compact&area=true&area_color=ffcccc&line=ff0000&point=0000ff&color=000000&bg_color=ffffff&hide_border=true" />
+  <!-- 提交连续天数卡片 -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zac-saodiseng&theme=radical&hide_border=true" 
+       alt="GitHub Streak" 
+       width="48%" 
+       style="border-radius: 8px;" />
+  
+  <!-- 仓库语言分布卡片 -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zac-saodiseng&theme=radical" 
+       alt="Repos per Language" 
+       width="48%" 
+       style="border-radius: 8px;" />
+</p>
+
+---
+
+<h2 align="center">🔍 Current Research Interests</h2>
+
+<p align="center">
+  <div style="background: #f8f9fa; padding: 18px; border-radius: 12px; max-width: 800px; margin: 0 auto;">
+    <ul align="left" style="font-size: 1.1em; line-height: 1.8;">
+      <li>📌 <strong>Agentic Security Systems</strong>: LLM-guided vulnerability discovery, fuzzing, and binary analysis via modular agent loops</li>
+      <li>🔧 <strong>Post-Training for Security</strong>: LoRA/Adapter/RLHF strategies for small-data, domain-specific (security) LLM adaptation</li>
+      <li>🧠 <strong>Agent Memory Architectures</strong>: Episodic/semantic memory design for long-term security task reasoning & knowledge reuse</li>
+      <li>📊 <strong>Empirical & Explainable Research</strong>: Human evaluation of LLM security decisions, counterfactual explanations, and robustness analysis</li>
+    </ul>
+  </div>
 </p>
