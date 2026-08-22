@@ -5,7 +5,7 @@
 <!-- Zach GitHub 主页简介（美化 + 居中 + 视觉突出是吧） -->
 <!-- Zach GitHub 主页简介（美化 + 居中 + 视觉突出） -->
 
-<h2 align="center">🇺🇸 26Fall Incoming CS Graduate Student in the United States</h2>
+<h2 align="center">University of Utah CS PhD</h2>
 
 <p align="center">
   🎓 CS Undergraduate @ <strong>Northeastern University (China)</strong> <br>
