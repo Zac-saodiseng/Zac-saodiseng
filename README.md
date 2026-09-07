@@ -8,7 +8,6 @@
 <h2 align="center">University of Utah CS PhD</h2>
 
 <p align="center">
-  🎓 CS Undergraduate @ <strong>Northeastern University (China)</strong> <br>
   💼 Internship Experience @ <strong>Meituan</strong> · <strong>Kuaishou</strong> · <strong>StarRocks</strong> <br>
   🎯 Passionate about <strong>Big Data</strong> · <strong>Distributed Systems</strong> · <strong>Data Analytics</strong> <br>
   🌱 Exploring the internals of <strong>Data Systems</strong> and <strong>Open-Source</strong> <br>
